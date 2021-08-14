@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "formidable-code-321913",
+  "private_key_id": "65fd90fbff123a95aed94c163aca818303f6c960",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBADg2bAS5hstU\n1bAKpZ7DHZcIFRH+S8pRIDuwfTtTXQuS/vbsaNDqV9+Op/rh2/JvZQIJH9efVwEE\nUxcqjKPFbR5FjLMODVYNVWUdGTO75j99yFKqPuv3ZUOUFKZfoDHmg7+vj7qede3T\n1qHqfQ5uta/kGVWxM2M6g0rbwCnX0tPWKDxkAbyezP3Lz4SY19XI8EYD4w0Ya8hT\nEOT67x3Rzbp74f21DGCUpLwZIZWG1Q/IjMFS6he5GTmZBmIh/EjMNC1MUhNNfTV3\niRUazx5NV4FVUQisvRBJY0DRfDXwMTsj3mHNFd0VSIXSPwC4iV5vDA6G+DvyW1HP\njB/iWxWTAgMBAAECggEAEyV37iIyJ8uRAVX/lFbQ1K9rS8B3XABdzkWB1mTeDUuW\nOdt0WIifbRgRk//jGiPtPZLKLGiNxf9mGO07R5vTJWNJVQH7w2GcT09Q7B2TbckO\nNGa6mKwMUasolJil1qe4O5OHYR3DmDO/x7urrW0BkQcSL3E5+I3OAsCCnSFHpWLX\nC07YDe63//zVer96JBnzk1uyRAjFSXf7J44R2TJmztxrYZaTwuuqsPpTeR2Jhza4\na/ADWSOUcF+UegSQRieStoty6B0/O7bEMZy/nea7VnUK/hzCpOC8QCoeEgGtr0zf\nwGNmoV9kULlqMsE6ale3xF5zLqzs5L4cW46LWhGW/QKBgQD27x+8D8wiOvSBaLeI\n7+G4bxeyBkojbSyHdQaB/WLwpdtfJfOl3oMGbDNTfyvPiGLITewYWS60YJ+M6/dn\nnV3diYsfcLA5a7xcGf6F/h37/5+whokcbRUNbjyVZXYKn6ji+qYGB6vNd3QhS4Az\niHj1hwpc9tEa4wbCLnvWd0Ee3wKBgQDIFjCXSy5/m0Xzfq2OLFqYEoGr4eo16QRI\nn3bKk7JAnOLuhWZdm0yDOJEMfBLYug+eVdBkQlzsULKoJNtimUHzZYpsAJmMgq5d\nrATZs/+UkF2lzbU1mY4s/ee39UwNoFMlYD3PrpNbyK5Mxra5C1xha+f1rYXTFvgQ\nYWq8aP9DzQKBgQCC5yTVlzJJ+yLe71pMV447LXlMQJVQznFKpbj7dA3dMK9oc0AE\ncD7ZSsayvrnE3LIxKU29YpmluYsbM4QGA6Bc7qs30Y86AWjrEkShV6MhkdNfyxIo\nZZNBeWzYbd7zpsvq96DHlY138Jk5hULDDtfAoQPXYGhdbniIvAeeG74D1QKBgCTY\nETKK4ZEV4pen6AWaHUSLg91GyH4M3oEQ/Crpb5V+TjtlzSfHhRtUu0D1R/Mor9+U\nJb+QiNPrODrGLq/FUOOk+wxQP/Yjyj/tgSclgha1TslNS+UG1atrRdQWE18e+rCT\nPE6V8wSfu5jfrp38fZJi8F/JCC+Ktzss9R6kpvyxAoGBAKwAUkopRqtRbLRp0ya8\n2g/JMZGSddEhFggcUKwGMAM+cqE+cwgNjKUS49dw0j/Kj9VWfiWlIz6377xD/fDW\nOGjKtmhzO63RuTSRFzVwaKJeg5LJmxsTxwTZHXfVcwTeSOgNKOkeytRc48sxLbZY\nL0IQEj/zMJlsIu2UdpO1vZxn\n-----END PRIVATE KEY-----\n",
+  "client_email": "bt-service-account@formidable-code-321913.iam.gserviceaccount.com",
+  "client_id": "111925255193544137601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bt-service-account%40formidable-code-321913.iam.gserviceaccount.com"
+}
